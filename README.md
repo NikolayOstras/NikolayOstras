@@ -16,19 +16,21 @@
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ### JS Frameworks
-![jquery](https://img.shields.io/badge/-jQuery-00E835?style=for-the-badge&logo=jquery)
-![alpine](https://img.shields.io/badge/-Alpine.js-00E835?style=for-the-badge&logo=alpine
+![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
+![Alpine.js](https://img.shields.io/static/v1?style=for-the-badge&message=Alpine.js&color=222222&logo=Alpine.js&logoColor=8BC0D0&label=)
 ### TOOLS
-![npm](https://img.shields.io/badge/-npm-C97961?style=for-the-badge&logo=npm)
-![yarn](https://img.shields.io/badge/-yarn-C97961?style=for-the-badge&logo=yarn)
+![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
+![Yarn](https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=)
 ![parcel](https://img.shields.io/badge/-Parcel-C97961?style=for-the-badge&logo=parcel)
-![gulp](https://img.shields.io/badge/-GULP-C97961?style=for-the-badge&logo=gulp)
-![wp](https://img.shields.io/badge/-WebPack-C97961?style=for-the-badge&logo=webpack)
-![node](https://img.shields.io/badge/-Node.js-C97961?style=for-the-badge&logo=node.js)
+![gulp](https://img.shields.io/static/v1?style=for-the-badge&message=gulp&color=CF4647&logo=gulp&logoColor=FFFFFF&label=)
+![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
+![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
+![GIMP](https://img.shields.io/static/v1?style=for-the-badge&message=GIMP&color=5C5543&logo=GIMP&logoColor=FFFFFF&label=)
 ### MORE
-![php](https://img.shields.io/badge/-PHP-informational?style=for-the-badge&logo=php)
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![с#](https://img.shields.io/badge/-C#-informational?style=for-the-badge&logo=C#)
-![wordpress](https://img.shields.io/badge/-WordPress-informational?style=for-the-badge&logo=wordpress)
+![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
 ![winterCms](https://img.shields.io/badge/-WinterCMS-informational?style=for-the-badge&logo=cms)
-
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
