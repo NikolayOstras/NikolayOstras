@@ -9,12 +9,12 @@
 ### CSS knowledge
 ![flex](https://img.shields.io/badge/-flex-00A2E8?style=for-the-badge&logo=flex)
 ![grid](https://img.shields.io/badge/-grid-00A2E8?style=for-the-badge&logo=grid)
-![bem](https://img.shields.io/badge/-BEM-00A2E8?style=for-the-badge&logo=bem)
+![BEM](https://img.shields.io/static/v1?style=for-the-badge&message=BEM&color=000000&logo=BEM&logoColor=FFFFFF&label=)
 ![smacss](https://img.shields.io/badge/-SMACSS-00A2E8?style=for-the-badge&logo=smacss)
-![sass](https://img.shields.io/badge/-SASS-00A2E8?style=for-the-badge&logo=sass)
-![scss](https://img.shields.io/badge/-SCSS-00A2E8?style=for-the-badge&logo=scss)
-![tw](https://img.shields.io/badge/-Tailwind-00A2E8?style=for-the-badge&logo=tailwind)
-![bootstrap](https://img.shields.io/badge/-Bootstrap-00A2E8?style=for-the-badge&logo=bootstrap)
+![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
+![Scss](https://img.shields.io/static/v1?style=for-the-badge&message=SCSS&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ### JS Frameworks
 ![jquery](https://img.shields.io/badge/-jQuery-00E835?style=for-the-badge&logo=jquery)
 ![alpine](https://img.shields.io/badge/-Alpine.js-00E835?style=for-the-badge&logo=alpine
