@@ -8,4 +8,6 @@
 ##
 ![jquery](https://img.shields.io/badge/-jQuery-00E835)
 ![alpine](https://img.shields.io/badge/-Alpine.js-00E835)
+![tw](https://img.shields.io/badge/-Tailwind-00E835)
+![bootstrap](https://img.shields.io/badge/-Bootstrap-00E835)
 
