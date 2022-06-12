@@ -3,9 +3,9 @@
 
 # Languages and Tools
 ### Languages
-![HTML](https://img.shields.io/badge/-HTML5-FFC300)
-![CSS](https://img.shields.io/badge/-CSS3-FFC300)
-![JS](https://img.shields.io/badge/-JavaScript-FFC300)
+![HTML](https://img.shields.io/badge/-HTML5-FFC300?style=for-the-badge&logo=appveyor)
+![CSS](https://img.shields.io/badge/-CSS3-FFC300?style=for-the-badge&logo=appveyor)
+![JS](https://img.shields.io/badge/-JavaScript-FFC300?style=for-the-badge&logo=appveyor)
 ### CSS knowledge
 ![flex](https://img.shields.io/badge/-flex-00A2E8)
 ![grid](https://img.shields.io/badge/-grid-00A2E8)
@@ -27,3 +27,5 @@
 ![node](https://img.shields.io/badge/-Node.js-C97961)
 ### MORE
 ![php](https://img.shields.io/badge/-PHP-informational)
+![wordpress](https://img.shields.io/badge/-WordPress-informational)
+![winterCms](https://img.shields.io/badge/-WinterCMS-informational)
