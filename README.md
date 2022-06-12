@@ -4,8 +4,8 @@
 # Languages and Tools
 ### Languages
 ![HTML](https://img.shields.io/badge/-HTML5-FFC300?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-FFC300?style=for-the-badge&logo-css)
-![JS](https://img.shields.io/badge/-JavaScript-FFC300?style=for-the-badge&logo-js)
+![CSS](https://img.shields.io/badge/-CSS3-FFC300?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/-JavaScript-FFC300?style=for-the-badge&logo=javascript)
 ### CSS knowledge
 ![flex](https://img.shields.io/badge/-flex-00A2E8)
 ![grid](https://img.shields.io/badge/-grid-00A2E8)
