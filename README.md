@@ -3,7 +3,7 @@
 
 # Languages and Tools
 ### Languages
-![HTML](https://img.shields.io/badge/-HTML5-FFC300?style=for-the-badge&logo-html)
+![HTML](https://img.shields.io/badge/-HTML5-FFC300?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-FFC300?style=for-the-badge&logo-css)
 ![JS](https://img.shields.io/badge/-JavaScript-FFC300?style=for-the-badge&logo-js)
 ### CSS knowledge
@@ -27,5 +27,6 @@
 ![node](https://img.shields.io/badge/-Node.js-C97961)
 ### MORE
 ![php](https://img.shields.io/badge/-PHP-informational)
+![с#](https://img.shields.io/badge/-C#-informational)
 ![wordpress](https://img.shields.io/badge/-WordPress-informational)
 ![winterCms](https://img.shields.io/badge/-WinterCMS-informational)
