@@ -30,7 +30,7 @@
 ![GIMP](https://img.shields.io/static/v1?style=for-the-badge&message=GIMP&color=5C5543&logo=GIMP&logoColor=FFFFFF&label=)
 ### MORE
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
-![с#](https://img.shields.io/badge/-C#-informational?style=for-the-badge&logo=C#)
+![с#](https://img.shields.io/badge/-C#-informational)
 ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
 ![winterCms](https://img.shields.io/badge/-WinterCMS-informational?style=for-the-badge&logo=cms)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
