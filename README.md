@@ -1,11 +1,11 @@
 ![Header](https://github.com/NikolayOstras/NikolayOstras/blob/main/assets/logo.png)
-## Web development , fron end development
+## FRONT-END DEVELOPMENT
 
 # Languages and Tools
 ### Languages
 ![HTML](https://img.shields.io/badge/-HTML5-FFC300)
 ![CSS](https://img.shields.io/badge/-CSS3-FFC300)
-![JS](https://img.shields.io/badge/-JavaScript(ES6)-FFC300)
+![JS](https://img.shields.io/badge/-JavaScript-FFC300)
 ### CSS knowledge
 ![flex](https://img.shields.io/badge/-flex-00A2E8)
 ![grid](https://img.shields.io/badge/-grid-00A2E8)
@@ -25,3 +25,5 @@
 ![gulp](https://img.shields.io/badge/-GULP-C97961)
 ![wp](https://img.shields.io/badge/-WebPack-C97961)
 ![node](https://img.shields.io/badge/-Node.js-C97961)
+### MORE
+![php](https://img.shields.io/badge/-PHP-informational)
