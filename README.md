@@ -1,4 +1,4 @@
-![Header](https://github.com/NikolayOstras/NikolayOstras/blob/main/assets/logo.gif)
+![Header](https://github.com/NikolayOstras/NikolayOstras/blob/main/logo.gif)
 ## FRONT-END DEVELOPER
 
 # Languages and Tools
